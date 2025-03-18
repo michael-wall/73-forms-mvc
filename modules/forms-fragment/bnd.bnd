@@ -1,0 +1,6 @@
+Bundle-Name: forms-fragment
+Bundle-SymbolicName: forms.fragment
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.dynamic.data.mapping.form.web;bundle-version="3.0.103"
+Export-Package: \
+com.liferay.dynamic.data.mapping.form.web.internal.portlet.action
