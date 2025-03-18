@@ -1,0 +1,1 @@
+This is based on 7.3 U34, source from https://github.com/liferay/liferay-dxp/blob/7.3.10-u34/modules/apps/dynamic-data-mapping/dynamic-data-mapping-form-web/src/main/java/com/liferay/dynamic/data/mapping/form/web/internal/portlet/action/PublishFormInstanceMVCActionCommand.java
